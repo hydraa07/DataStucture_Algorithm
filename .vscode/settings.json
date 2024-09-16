@@ -1,0 +1,41 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "math.h": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "new": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cSpell.words": [
+        "banta",
+        "chhij",
+        "colindex",
+        "dhundho",
+        "displaywave",
+        "endcol",
+        "endrow",
+        "esase",
+        "fibo",
+        "firstposition",
+        "jayenge",
+        "kamal",
+        "kardo",
+        "karke",
+        "largestrowsum",
+        "lastposition",
+        "minindex",
+        "minvalue",
+        "nuksan",
+        "optretore",
+        "printmatrix",
+        "printround",
+        "rowindex",
+        "rowsum",
+        "startcol",
+        "startrow",
+        "vali"
+    ]
+}
